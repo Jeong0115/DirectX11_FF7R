@@ -1,0 +1,5 @@
+pch.h
+stdafx.h
+ScriptMgr.h
+targetver.h
+SceneSaveLoad.h

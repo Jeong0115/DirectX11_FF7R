@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Default">
+      <UniqueIdentifier>{b7b35320-2f7d-47a1-b605-c9105504862f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script">
+      <UniqueIdentifier>{826fc996-2f5d-452a-bf32-29b8debdaa94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ScriptMgr">
+      <UniqueIdentifier>{f916a315-44f8-49a7-bbfd-b96902416d59}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraMoveScript.h">
+      <Filter>Script</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterScript.h">
+      <Filter>Script</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerScript.h">
+      <Filter>Script</Filter>
+    </ClInclude>
+    <ClInclude Include="TestScript.h">
+      <Filter>Script</Filter>
+    </ClInclude>
+    <ClInclude Include="ScriptMgr.h">
+      <Filter>ScriptMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="func.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Script.cpp">
+      <Filter>Default</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Default</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraMoveScript.cpp">
+      <Filter>Script</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterScript.cpp">
+      <Filter>Script</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerScript.cpp">
+      <Filter>Script</Filter>
+    </ClCompile>
+    <ClCompile Include="TestScript.cpp">
+      <Filter>Script</Filter>
+    </ClCompile>
+    <ClCompile Include="ScriptMgr.cpp">
+      <Filter>ScriptMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="func.cpp">
+      <Filter>Default</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

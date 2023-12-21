@@ -1,0 +1,6 @@
+CameraMoveScript
+CScriptMgr
+func
+MonsterScript
+PlayerScript
+TestScript
